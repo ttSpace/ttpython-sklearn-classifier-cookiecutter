@@ -293,4 +293,4 @@ if __name__ == '__main__':
     #This is new
     print("It's June 21st, 2021")
     #This is new
-    print("Hello, It's June 22rd, 2021")
+    print("It's June 22rd, 2021")
