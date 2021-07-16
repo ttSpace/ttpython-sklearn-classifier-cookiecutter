@@ -300,3 +300,4 @@ if __name__ == '__main__':
     #This is new
     print("It's July 7th, 2021")
     print("It's July 13rd, 2021")
+    print("Silence, July 16th,2021")
