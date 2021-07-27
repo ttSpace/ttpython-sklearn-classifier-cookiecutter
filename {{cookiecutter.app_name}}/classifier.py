@@ -303,3 +303,4 @@ if __name__ == '__main__':
     print("Silence, July 16th,2021")
     print("It's sad, July 20th,2021")
     print("It's July 22rd, 2021")
+    print("It's July 27th, 2021, rainy and windy")
