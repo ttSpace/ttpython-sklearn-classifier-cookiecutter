@@ -310,3 +310,4 @@ if __name__ == '__main__':
     print("It's Aug 16th, LIVE")
     print("Not to bad, Aug 19th")
     print("Just so so, Sept 7th")
+    print("Windy, Sept 13th")
