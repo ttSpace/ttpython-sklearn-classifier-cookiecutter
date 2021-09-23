@@ -312,3 +312,4 @@ if __name__ == '__main__':
     print("Just so so, Sept 7th")
     print("Windy, Sept 13th")
     print("Sept 18th, 2021")
+    print("Mid-Autumn Festival has just passed away. Sept 23")
