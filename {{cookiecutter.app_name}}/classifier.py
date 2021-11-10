@@ -317,3 +317,4 @@ if __name__ == '__main__':
     print("Oct 13th, Cold is coming.")
     print("Oct 27th, the https://github.com/microsoft/PTVS/issues/6684 was not happen.")
     print("Nov 8th, the Cookiecutter works fine, the python installed from microsoft store.")
+    print("Nov 10th, Dark Before Home.")
