@@ -319,4 +319,6 @@ if __name__ == '__main__':
     print("Nov 8th, the Cookiecutter works fine, the python installed from microsoft store.")
     print("Nov 10th, Dark Before Home.")
     print("Nov 15th, It's sunny.")
-    print("Nov 24th, It's cold")
+    print("Nov 24th, It's cold.")
+    print("Nov 29th, It's fresh day.")
+ 
