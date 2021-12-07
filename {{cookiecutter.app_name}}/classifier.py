@@ -321,4 +321,4 @@ if __name__ == '__main__':
     print("Nov 15th, It's sunny.")
     print("Nov 24th, It's cold.")
     print("Nov 29th, It's fresh day.")
- 
+    print("Dece 7th, It's Oppression.")
