@@ -325,3 +325,4 @@ if __name__ == '__main__':
     print("Dece 17th, out till 12/31")
     print("Happy new year!! Jan 7th")
     print("Jan 10th, the friday is sign-off.")
+    print("New year is coming.")
