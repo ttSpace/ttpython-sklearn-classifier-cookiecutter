@@ -327,4 +327,4 @@ if __name__ == '__main__':
     print("Jan 10th, the friday is sign-off.")
     print("New year is coming.")
     print("Jan 27th.")
-    print("June 16th, need to install git to load template or fail.")
+    print("June 16th, need to install git to load template or fail. https://github.com/microsoft/PTVS/issues/6872")
