@@ -328,3 +328,4 @@ if __name__ == '__main__':
     print("New year is coming.")
     print("Jan 27th.")
     print("June 16th, need to install git to load template or fail. https://github.com/microsoft/PTVS/issues/6872")
+    print("June 21st, I want to rest.")
