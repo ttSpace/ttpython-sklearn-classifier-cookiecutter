@@ -334,3 +334,4 @@ if __name__ == '__main__':
     print("July 11th, still still, want to rest.")
     print("July 25th.")
     print("August 1st.")
+    print("Today is Double Seventh Festival, August 4th")
