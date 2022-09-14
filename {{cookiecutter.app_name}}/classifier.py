@@ -337,3 +337,4 @@ if __name__ == '__main__':
     print("Today is Double Seventh Festival, August 4th")
     print("August 17th, twists and turns")
     print("August 31st, nitty gritty ")
+    print("Sept 14th, typhoon Muifa.")
