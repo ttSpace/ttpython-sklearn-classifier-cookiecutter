@@ -339,3 +339,4 @@ if __name__ == '__main__':
     print("August 31st, nitty gritty ")
     print("Sept 14th, typhoon Muifa.")
     now.strftime("%A, %d %B, %Y at %X")
+    print("Sept 22nd.")
