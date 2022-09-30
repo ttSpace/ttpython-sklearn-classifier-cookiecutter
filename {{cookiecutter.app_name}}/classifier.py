@@ -340,3 +340,4 @@ if __name__ == '__main__':
     print("Sept 14th, typhoon Muifa.")
     now.strftime("%A, %d %B, %Y at %X")
     print("Sept 22nd.")
+    print("Sept 30th.")
