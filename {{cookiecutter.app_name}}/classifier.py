@@ -347,3 +347,4 @@ if __name__ == '__main__':
     print("Dece 27th")
     print("January 4th, feel bad.")
     print("January 16th, It's cold.")
+    print("January 18th, Still feel cold.")
