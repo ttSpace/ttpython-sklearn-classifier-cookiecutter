@@ -298,4 +298,4 @@ if __name__ == '__main__':
     print("Dece 17th, out till 12/31")
     print("June 16th, need to install git to load template or fail. https://github.com/microsoft/PTVS/issues/6872")
     print("June 24th, It's going to rain heavily today.")
-
+    print("March 15th.")
