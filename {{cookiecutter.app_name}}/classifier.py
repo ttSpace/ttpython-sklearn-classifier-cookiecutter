@@ -300,3 +300,4 @@ if __name__ == '__main__':
     print("June 24th, It's going to rain heavily today.")
     print("March 15th.")
     print("Aspiration")
+    print("sqlacademy")
