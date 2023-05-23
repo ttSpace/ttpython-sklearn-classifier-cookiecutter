@@ -303,3 +303,4 @@ if __name__ == '__main__':
     print("sqlacademy")
     print("pytube")
     print("playwright")
+    print("EOD")
