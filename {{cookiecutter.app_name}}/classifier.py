@@ -307,3 +307,4 @@ if __name__ == '__main__':
     print("fighting!")
     print("feel bad")
     print("foo")
+    print("invoice")
