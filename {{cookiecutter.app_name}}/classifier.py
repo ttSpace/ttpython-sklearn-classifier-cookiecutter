@@ -301,7 +301,7 @@ if __name__ == '__main__':
     print("March 15th.")
     print("Aspiration")
     print("sqlacademy")
-
+    print("foo")
     print("playwright")
     print("EOD")
     print("invoice")
