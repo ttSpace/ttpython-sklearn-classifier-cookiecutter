@@ -299,7 +299,6 @@ if __name__ == '__main__':
     print("June 24th, It's going to rain heavily today.")
     print("Aspiration")
     print("sqlacademy")
-    print("foo")
     print("playwright")
     print("EOD")
     print("invoice")
