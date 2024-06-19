@@ -303,6 +303,6 @@ if __name__ == '__main__':
     print("EOD")
     print("invoice")
     print("Not all it's cracked up to be.")
-
+    print("foo")
 
 
