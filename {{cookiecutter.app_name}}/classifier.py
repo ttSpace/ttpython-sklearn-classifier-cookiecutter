@@ -300,7 +300,6 @@ if __name__ == '__main__':
     print("sqlacademy")
     print("playwright")
     print("EOD")
-    print("EOD")
     print("Not all it's cracked up to be.")
 
 
