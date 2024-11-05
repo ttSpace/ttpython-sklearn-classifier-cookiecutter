@@ -299,7 +299,6 @@ if __name__ == '__main__':
     print("Aspiration")
     print("sqlacademy")
     print("playwright")
-    print("playwright")
     print("EOD")
     print("Not all it's cracked up to be.")
 
