@@ -301,7 +301,5 @@ if __name__ == '__main__':
     print("playwright")
     print("EOD")
     print("Not all it's cracked up to be.")
-    print("EOD")
-    print("Not all it's cracked up to be.")
 
 
